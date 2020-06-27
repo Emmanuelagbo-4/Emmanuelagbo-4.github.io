@@ -26042,7 +26042,7 @@ return new X.uX(J.W(t.e,b),b,J.bC(t.e),null)},
 $C:"$2",
 $R:2}
 N.QY.prototype={
-$0:function(){return C.R.f1(window,"https://medium.com/@agboemmanuel360","adityadroid")},
+$0:function(){return C.R.f1(window,"https://medium.com/@agboemmanuel360","emmanuel")},
 $S:6}
 N.QZ.prototype={
 $0:function(){var t=this.a
@@ -26075,7 +26075,7 @@ r=t.c
 return R.Wz(!1,!0,V.YR(M.dE(s,T.o8(H.b([new U.l5(M.a_q(s,s,new D.lu(C.c.R("https://miro.medium.com/fit/c/700/300/",r.fy.b.a),1)),s,s,s),new T.bT(s,16,s,s),L.cN(r.e,K.ay(a).y2.f,s,s),new T.bT(s,8,s,s),L.cN(r.fx.a,K.ay(a).y2.x,s,s)],u.t),C.cc,C.aT,C.bM),s,s,s,s,s,new V.aJ(16,16,16,16),s,s),new V.aJ(16,q,16,q)),s,!0,s,s,s,s,s,s,s,s,s,new X.Gr(t),s)},
 gm:function(a){return this.e}}
 X.Gr.prototype={
-$0:function(){return C.R.f1(window,C.c.R("https://medium.com/@agboemmanuel360",this.a.c.y1),"emmanuel")},
+$0:function(){return C.R.f1(window,C.c.R("https://medium.com/@agboemmanuel360/",this.a.c.y1),"emmanuel")},
 $S:6}
 S.lM.prototype={
 F:function(a){var t,s=null,r=F.bR(a,!1).a,q=F.bR(a,!1).a,p=this.c
