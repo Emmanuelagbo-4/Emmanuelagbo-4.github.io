@@ -30485,7 +30485,7 @@ g.bq=f.h(a,"type")
 return g},
 $S:109}
 K.vT.prototype={
-H:function(a,b){var s=null,r=U.iM("assets/avatar1.png",s,s),q=T.cR(s,20,s),p=L.d8("Emmanuel Agbo",A.no(s,s,s,s,s,s,s,s,s,s,s,9,s,s,s,s,!0,s,s,s,s,s,s),C.h5,4),o=T.cR(s,20,s),n=L.d8("Backend Developer\n.NET Core | Azure.",K.au(b).Y.Q,C.h5,2),m=T.cR(s,40,s),l=N.tF(T.cR(U.iM("assets/github.png",s,s),20,20),L.d8("Github",s,s,s),new K.If()),k=N.tF(T.cR(U.iM("assets/twitter.png",s,s),20,20),L.d8("Twitter",s,s,s),new K.Ig()),j=t.b
+H:function(a,b){var s=null,r=U.iM("assets/profile_pic.PNG",s,s),q=T.cR(s,20,s),p=L.d8("Emmanuel Agbo",A.no(s,s,s,s,s,s,s,s,s,s,s,9,s,s,s,s,!0,s,s,s,s,s,s),C.h5,4),o=T.cR(s,20,s),n=L.d8("Backend Developer\n.NET Core | Azure.",K.au(b).Y.Q,C.h5,2),m=T.cR(s,40,s),l=N.tF(T.cR(U.iM("assets/github.png",s,s),20,20),L.d8("Github",s,s,s),new K.If()),k=N.tF(T.cR(U.iM("assets/twitter.png",s,s),20,20),L.d8("Twitter",s,s,s),new K.Ig()),j=t.b
 return E.a58(T.lA(new T.dM(C.p1,T.p1(H.c([new K.wC(r.c,100,s),q,p,o,n,m,T.mP(H.c([l,k,N.tF(T.cR(U.iM(t.e9.a(b.pf(C.kR)).f.d?"assets/medium.png":"assets/medium_light.png",s,s),20,20),L.d8("Medium",s,s,s),new K.Ih())],j),C.aZ,C.mz,C.d2),T.mP(H.c([N.tF(T.cR(U.iM("assets/youtube.png",s,s),20,20),L.d8("Youtube",s,s,s),new K.Ii()),N.tF(T.cR(U.iM("assets/facebook.png",s,s),20,20),L.d8("Facebook",s,s,s),new K.Ij()),N.tF(T.cR(U.iM("assets/linkedin.png",s,s),20,20),L.d8("Linkedin",s,s,s),new K.Ik())],j),C.aZ,C.mz,C.d2)],j),C.aZ,C.b3,C.d2),s),s,s))}}
 K.If.prototype={
 $0:function(){return C.a_.fN(window,"https://github.com/Emmanuelagbo-4","emmanuel")},
