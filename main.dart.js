@@ -65996,7 +65996,7 @@ return new A.bg(1/0,null,new A.iQ(this.xh(b,b.K(t.w).f.a.a*0.8),r,s,null),null)}
 xh(a,b){var s=null,r=t.p,q=A.et(A.a([A.cN("Productive ,\n   Experienced",A.du(s,18,B.ab,1.8,2),s,s),A.jB(s,A.jT(A.cN("DOWNLOAD CV",A.du(B.ao,16,B.ab,s,s),s,s),B.b_,s,s,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,new A.a3F(),s,s,s,s,s,s)],r),B.J,B.fC,B.B),p=A.cN("What I Do?",A.du(s,35,B.ab,1.3,s),s,s),o=A.cN("Here are some ways I can be of help",A.du(B.dp,14,s,s,s),s,s),n=a.K(t.w).f.a.a>=1200?140:70
 return A.qQ(B.aM,s,s,s,s,A.ig(A.a([q,B.cm,p,B.up,o,new A.bg(s,n,s,s),A.vb(new A.a3G(this)),B.HI,A.bk(B.P,new A.ix(new A.a3H(a),s),s,s,s,s,s,s,s,s)],r),B.J,B.X,B.B),!1,s,s,!1,1,s,s,s,b,s,s,b,s,!0,!1)}}
 A.a3F.prototype={
-$0(){A.dU("https://github.com/Emmanuelagbo-4/Emmanuelagbo-4.github.io/raw/master/assets/assets/Resume-Emmanuel-Agbo%2B(3).pdf")},
+$0(){A.dU("https://github.com/Emmanuelagbo-4/assets/raw/main/Resume-Emmanuel-Agbo%2B(3).pdf")},
 $S:0}
 A.a3G.prototype={
 $3(a,b,c){var s=this.a.c,r=A.a2(s).i("ab<1,cp>")
